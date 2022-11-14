@@ -5,8 +5,8 @@
 
 # **Part 1**
 ## Changing the name of the start parameter and its uses to base:
- ## Keys pressed:  
- ## 1. /start + < Enter >: This command search for the word "start" in the file. We may press < Enter > to save the searched word. Please see the screenshot for this set of commands:
+## Keys pressed:  
+## 1. /start + < Enter >: This command search for the word "start" in the file. We may press < Enter > to save the searched word. Please see the screenshot for this set of commands:
 ![SearchStart](Images/SearchStart.png)  
 
 <br>
