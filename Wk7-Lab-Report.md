@@ -6,35 +6,35 @@
 # **Part 1**
 ## Changing the name of the start parameter and its uses to base:
 ## Keys pressed:  
-## 1. ```/start + < Enter >```: This command search for the word "start" in the file. We may press < Enter > to save the searched word. Please see the screenshot for this set of commands:
+## 1. `/start + < Enter >`: This command search for the word "start" in the file. We may press < Enter > to save the searched word. Please see the screenshot for this set of commands:
 ![SearchStart](Images/SearchStart.png)  
 
 <br>
 
-## 2. ```c + e```: Firstly, I pressed "c", which means change, and "e", which will change and delete until the end of the word that the cursor is on. This set of commands also put my terminal to the insert mode. 
+## 2. `c + e`: Firstly, I pressed "c", which means change, and "e", which will change and delete until the end of the word that the cursor is on. This set of commands also put my terminal to the insert mode. 
 ![DeleteStart](Images/DeleteStart.png)
 
 <br>
 
-## 3. ```b + a + s + e + < Esc >```: After deleting "start", I typed its replacement, "base" by pressing keys "b", "a", "s", and "e." Finally, I pressed < Esc > to exit the insert mode and go back to the normal mode. 
+## 3. `b + a + s + e + < Esc >`: After deleting "start", I typed its replacement, "base" by pressing keys "b", "a", "s", and "e." Finally, I pressed < Esc > to exit the insert mode and go back to the normal mode. 
 ![Base and Exit the insert mode](Images/BaseEsc.png)
 
-## 4. ```n```: I pressed "n" to go to the next searched "start". 
+## 4. `n`: I pressed "n" to go to the next searched "start". 
 ![Pressed "n"](Images/PressN.png)
 
 <br>
 
-## 5. ```.```: I pressed "." to repeat the previous commands of deleting "start" and replacing it with "base".
+## 5. `.`: I pressed "." to repeat the previous commands of deleting "start" and replacing it with "base".
 ![Repeated start and base](Images/RepeatStartBase.png)
 
 <br>
 
-## 6. ```n```: I pressed "n" to go to the next searched "start".
+## 6. `n`: I pressed "n" to go to the next searched "start".
 ![Go to the next start](Images/NextStart.png)
 
 <br>
 
-## 7. ```.```: repeat previous commands of deleting "start" and replacing it with "base". This is the last command I need to do.
+## 7. `.`: repeat previous commands of deleting "start" and replacing it with "base". This is the last command I need to do.
 ![Repeat previous commands](Images/Repeat%20previous%20commands.png)
 
 <br>
